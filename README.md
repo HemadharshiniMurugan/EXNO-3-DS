@@ -220,7 +220,7 @@ sm.qqplot(df["Highly Negative Skew"],line='45')
 plt.show()
 ```
 
-![Screenshot 2024-03-26 165111](https://github.com/hema/EXNO-3-DS/assets/119560302/cc2d9ce7-4811-44a0-bf21-aeed274b2728)
+![Screenshot 2024-03-26 165111](https://github.com/gokulapriya632202/EXNO-3-DS/assets/119560302/cc2d9ce7-4811-44a0-bf21-aeed274b2728)
 
 ```
 sm.qqplot(df["Highly Negative Skew_1"],line='45')
